@@ -1,0 +1,6 @@
+/*
+Ejemplo del funcionamiento de un metodo estatico
+
+El metodo estatico funciona para ....
+
+*/
